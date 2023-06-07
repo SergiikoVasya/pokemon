@@ -1,0 +1,12 @@
+.pokemons_container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background: #332b2b;
+}
+
+.pokemons_container td{
+    min-width: 100px;
+    outline: 1px solid wheat;
+    text-align: center;
+}
